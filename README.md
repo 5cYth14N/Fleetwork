@@ -1,8 +1,9 @@
 # Fleetwork
 
-Basic fleetwork movements, many bugs, but its working (sometimes not) :)
-I made it just for fun, i planned to make a full maritime practice environment for comms. Too much work and too little free time alone.
+Basic fleetwork movements, Turn & Wheel, Port or STBD
+I made it to easily understand the diference between true and realative degrees.
 
-Fleetwork for MacOS - https://github.com/5cYth14N/Fleetwork/releases/download/fleetwork/Movements.zip
+Source code here:
 
-Fleetwork for Windows - https://github.com/5cYth14N/Fleetwork/releases/download/Fleetwork/Fleetwork_movements.zip
+Android version here:
+https://play.google.com/store/apps/details?id=com.RichardNagy.Fleetwork
